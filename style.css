@@ -58,6 +58,12 @@
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
+  h2{
+    color: #003060;
+  }
+  strong{
+    color: #003060;
+  }
   
   /* Tabela de orçamento */
   .pricing-section {
